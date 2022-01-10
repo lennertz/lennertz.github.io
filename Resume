@@ -1,1 +1,17 @@
+<!DOCTYPE HTML>
+<html lang = “en”>
+<meta charset = ”UTF-8” />
+  <head>
 
+  <!-- Lennertz Resume  -->
+
+  <title>My Resume</title> 
+  
+  </head>
+  <body>
+    <h1>My CV</h1>
+    <br>
+    <iframe src="/uploads/Lennertzresume2020.pdf" width="100%" height="500px">  
+    
+   </body>
+   </html>
